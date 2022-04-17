@@ -1,3 +1,7 @@
+# Ignored files
+credit_risk_resampling_practice.ipynb
+LoanStats_2019Q1.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
